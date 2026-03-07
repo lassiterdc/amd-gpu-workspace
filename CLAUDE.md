@@ -1,0 +1,1 @@
+/home/dcl3nd/dev/agentic-workspace/prompts/runtimes/claude_code/workspaces/tools/amd-gpu-workspace/CLAUDE.md
